@@ -14,6 +14,10 @@ Conestoga-College-notes/
 │   ├── labs/
 │   ├── lecture-notes/
 │   └── supplementary-materials/
+├── PROG8021/
+│   ├── labs/
+│   ├── lecture-notes/
+│   └── supplementary-materials/
 ├── PROG2390/
 │   ├── labs/
 │   ├── lecture-notes/
@@ -63,6 +67,7 @@ If you notice any errors or have suggestions for improvements:
 
 - [PROG8830 - Scripting and Automation](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses?id=29643)
 - [PROG2220 - Databases: S.Q.L](https://www.conestogac.on.ca/fulltime/computer-programming-and-analysis/courses?id=22425)
+- [PROG8021 - Programming: Web Design & Development](https://www.conestogac.on.ca/fulltime/computer-applications-development/courses?id=26254)
 - [PROG2390 - Small Business Solutions](https://www.conestogac.on.ca/fulltime/computer-programming-and-analysis/courses?id=28520)
 
 ## Contact
