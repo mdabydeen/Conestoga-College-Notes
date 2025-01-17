@@ -1,0 +1,9 @@
+# Ignore Terraform working folders and files
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+
+# Possibly ignore other local or system files:
+*.tfvars
+.git
+node_modules
