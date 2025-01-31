@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = ""
-  secret_key = ""
+  access_key = "ACCESS_KEY" # Replace with the Access Key from your AWS Account
+  secret_key = "SECRET_KEY" # Replace with the Secret Key from your AWS Account
   region     = "us-east-1"
 }
 
@@ -20,9 +20,9 @@ resource "aws_vpc" "app" {
 
 # INSTANCES
 resource "aws_instance" "nginx1" {
-  ami                    = nonsensitive(data.aws_ssm_parameter.amzn2_linux.value)
-  instance_type          = "t3.micro"
-  
+  ami           = nonsensitive(data.aws_ssm_parameter.amzn2_linux.value)
+  instance_type = "t3.micro"
+
   user_data = <<EOF
 #! /bin/bash
 sudo amazon-linux-extras install -y nginx1
@@ -32,4 +32,3 @@ echo '<html><head><title>Taco Team Server</title></head><body style=\"background
 EOF
 
 }
-
