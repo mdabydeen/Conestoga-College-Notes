@@ -6,11 +6,15 @@ This repository contains supplementary materials, labs, and additional notes for
 
 ```
 Conestoga-College-notes/
-├── PROG8830/
+├── PROG2220/
 │   ├── labs/
 │   ├── lecture-notes/
 │   └── supplementary-materials/
-├── PROG2220/
+├── PROG2390/
+│   ├── labs/
+│   ├── lecture-notes/
+│   └── supplementary-materials/
+├── PROG3060/
 │   ├── labs/
 │   ├── lecture-notes/
 │   └── supplementary-materials/
@@ -18,7 +22,7 @@ Conestoga-College-notes/
 │   ├── labs/
 │   ├── lecture-notes/
 │   └── supplementary-materials/
-├── PROG2390/
+├── PROG8830/
 │   ├── labs/
 │   ├── lecture-notes/
 │   └── supplementary-materials/
@@ -65,10 +69,11 @@ If you notice any errors or have suggestions for improvements:
 
 ## Course Specific Links
 
-- [PROG8830 - Scripting and Automation](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses?id=29643)
 - [PROG2220 - Databases: S.Q.L](https://www.conestogac.on.ca/fulltime/computer-programming-and-analysis/courses?id=22425)
-- [PROG8021 - Programming: Web Design & Development](https://www.conestogac.on.ca/fulltime/computer-applications-development/courses?id=26254)
 - [PROG2390 - Small Business Solutions](https://www.conestogac.on.ca/fulltime/computer-programming-and-analysis/courses?id=28520)
+- [PROG3060 - Programming: Java Enterprise Applications](https://www.conestogac.on.ca/fulltime/computer-programming-and-analysis/courses?id=24546)
+- [PROG8021 - Programming: Web Design & Development](https://www.conestogac.on.ca/fulltime/computer-applications-development/courses?id=26254)
+- [PROG8830 - Scripting and Automation](https://www.conestogac.on.ca/fulltime/cloud-development-and-operations/courses?id=29643)
 
 ## Contact
 
@@ -79,4 +84,4 @@ This repository is licensed under the Creative Commons Attribution-NonCommercial
 
 See the [LICENSE](LICENSE) file for details.
 
-Last Updated: [Winter 2025 / February 2025]
+Last Updated: [Spring 2025 / May 2025]
